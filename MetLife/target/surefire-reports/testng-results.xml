@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Geico insurance company" duration-ms="63997" started-at="2015-01-12T11:41:52Z" finished-at="2015-01-12T11:42:56Z">
+    <groups>
+    </groups>
+    <test name="Geico LogIn tab" duration-ms="63997" started-at="2015-01-12T11:41:52Z" finished-at="2015-01-12T11:42:56Z">
+      <class name="metLife.DragDrop">
+        <test-method status="PASS" signature="navigationUrl(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:metLife.DragDrop@21bcffb5]" name="navigationUrl" is-config="true" duration-ms="7009" started-at="2015-01-12T06:41:52Z" finished-at="2015-01-12T06:41:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://www.metlife.com/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[33]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[akanda_salahuddin]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[b5e11a4f-f9a3-4d95-b2a6-24b3984ac9bb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationUrl -->
+        <test-method status="PASS" signature="dragDrop()[pri:0, instance:metLife.DragDrop@21bcffb5]" name="dragDrop" duration-ms="16578" started-at="2015-01-12T06:41:59Z" finished-at="2015-01-12T06:42:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragDrop -->
+        <test-method status="PASS" signature="closeUrl()[pri:0, instance:metLife.DragDrop@21bcffb5]" name="closeUrl" is-config="true" duration-ms="9" started-at="2015-01-12T06:42:15Z" finished-at="2015-01-12T06:42:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUrl -->
+      </class> <!-- metLife.DragDrop -->
+      <class name="metLife.YourInfo">
+        <test-method status="PASS" signature="navigationUrl(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:metLife.YourInfo@783e6358]" name="navigationUrl" is-config="true" duration-ms="6933" started-at="2015-01-12T06:42:15Z" finished-at="2015-01-12T06:42:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://www.metlife.com/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[33]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[akanda_salahuddin]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[b5e11a4f-f9a3-4d95-b2a6-24b3984ac9bb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationUrl -->
+        <test-method status="PASS" signature="yourInfo()[pri:0, instance:metLife.YourInfo@783e6358]" name="yourInfo" duration-ms="33445" started-at="2015-01-12T06:42:22Z" finished-at="2015-01-12T06:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yourInfo -->
+        <test-method status="PASS" signature="closeUrl()[pri:0, instance:metLife.YourInfo@783e6358]" name="closeUrl" is-config="true" duration-ms="6" started-at="2015-01-12T06:42:56Z" finished-at="2015-01-12T06:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUrl -->
+      </class> <!-- metLife.YourInfo -->
+    </test> <!-- Geico LogIn tab -->
+  </suite> <!-- Geico insurance company -->
+</testng-results>

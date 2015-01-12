@@ -1,0 +1,163 @@
+http://healthfirst.com/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/contact.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/contact.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+null
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/emergency-medical-kits.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/SM-Z.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/acls-kit.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/sm-series.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/defibrillators.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/heartsine.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/philips-heartstart-defibrillator.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/zoll-aeds.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/oxygen.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/oxygen.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/training-list.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/training/
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/bloodborne-pathogens-training-1.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/SM-Kit-Training.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/Stanley_Malamed.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/medications.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/medications.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/medications.html?medication=epinephrine
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/medications.html?medication=albuterol
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/medications.html?medication=flumazenil
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/medications.html?medication=naloxone
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/physiologic-monitors.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/Colin-M30.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/Colin-YM1000.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/criticare-ngenuity-patient-monitor.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/criticare-vitalcare-patient-monitor.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/dental-waste/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/dental-waste/Amalgam-Separators/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/dental-waste/Amalgam-Waste-Recovery/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/dental-waste/Amalgam-Waste-Recovery/Traps-and-Filters/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/dental-waste/Sharps-Recovery-Dental/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/dental-waste/Unused-Medications-Recovery/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/VacuBlu/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/infection-control/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/infection-control/sterilization-pouches/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/infection-control/environmental-barriers/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/infection-control/personal-protection/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/infection-control/surface-disinfectants/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/infection-control/spore-testing/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/radiation-minimization.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/aprons.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/instadose.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/ada/
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+https://www.ontraq.us/
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+null
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/about-us.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/dental-waste/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/infection-control/
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/emergency-medical-kits.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/oxygen.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/defibrillators.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/physiologic-monitors.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/medications.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/training-list.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/about-us.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/advisory.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/event-calendar
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/regulatory.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/press
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/contact.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/blog
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/complianceguides/
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/emergency-medical-kits.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/dental-waste/sharps-recovery-dental/
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/training/
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/infection-control/
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/emergency-medical-kits.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/defibrillators.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/dental-waste/Sharps-Recovery/index.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+https://www.ontraq.us/
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/privacy.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/event-calendar
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/advisory.html
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.nabp.net/programs/accreditation/vawd/
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/#
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/#
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+http://www.healthfirst.com/#
+[[RemoteWebDriver: chrome on XP (f3838ff73caf4238a2330ca0cde381e1)] -> tag name: a]
+81

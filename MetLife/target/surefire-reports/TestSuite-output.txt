@@ -1,0 +1,4 @@
+Jan 12, 2015 7:09:29 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://ondemand.saucelabs.com:80: The target server failed to respond
+Jan 12, 2015 7:09:29 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ondemand.saucelabs.com:80
