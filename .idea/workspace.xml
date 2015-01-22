@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14a32005-4b72-4633-bb54-3e527fb8e0a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-    </list>
+    <list default="true" id="14a32005-4b72-4633-bb54-3e527fb8e0a2" name="Default" comment="" />
     <ignored path="FirstMentoringPorject.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -182,8 +180,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="749" />
-    <option name="y" value="23" />
+    <option name="x" value="143" />
+    <option name="y" value="25" />
     <option name="width" value="1031" />
     <option name="height" value="777" />
   </component>
@@ -594,7 +592,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="749" y="23" width="1031" height="777" extended-state="0" />
+    <frame x="143" y="25" width="1031" height="777" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
