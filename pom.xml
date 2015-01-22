@@ -46,6 +46,12 @@
             <artifactId>testng</artifactId>
             <version>6.8.8</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>3.11</version>
+        </dependency>
     </dependencies>
 </dependencyManagement>
     <build>
@@ -68,5 +74,66 @@
             </plugin>
         </plugins>
     </build>
+
+
+    <profiles>
+        <profile>
+            <id>all</id>
+            <modules>
+                <module>Generic</module>
+                <module>HealthFirst</module>
+                <module>JQuery</module>
+                <module>Characterarcade</module>
+                <module>Amazon</module>
+                <module>MetLife</module>
+                <module>IndianRailways</module>
+            </modules>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+        </profile>
+        <profile>
+            <id>HealthFirst-app</id>
+            <modules>
+                <module>Generic</module>
+                <module>HealthFirst</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>JQuery-app</id>
+            <modules>
+                <module>Generic</module>
+                <module>JQuery</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>Characterarcade-app</id>
+            <modules>
+                <module>Generic</module>
+                <module>Characterarcade</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>Amazon-app</id>
+            <modules>
+                <module>Generic</module>
+                <module>Amazon</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>MetLife-app</id>
+            <modules>
+                <module>Generic</module>
+                <module>MetLife</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>IndianRailways-app</id>
+            <modules>
+                <module>Generic</module>
+                <module>IndianRailways</module>
+            </modules>
+        </profile>
+    </profiles>
 
 </project>

@@ -18,6 +18,10 @@ public class LinkList extends CommoneApi {
             System.out.println(list.get(i));
         }
         System.out.println(list.size());
+
+
+
+
     }
 
 }

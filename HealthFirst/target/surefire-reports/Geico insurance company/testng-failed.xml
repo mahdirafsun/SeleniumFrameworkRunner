@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite verbose="0" name="Failed suite [Geico insurance company]" parallel="tests">
-  <parameter name="OS" value="WIN 8"/>
+  <parameter name="OS" value="WIN8"/>
   <parameter name="browserVersion" value="38"/>
   <parameter name="browserName" value="chrome"/>
   <parameter name="useSauceLabs" value="true"/>
@@ -10,6 +10,11 @@
   <parameter name="key" value="b5e11a4f-f9a3-4d95-b2a6-24b3984ac9bb"/>
   <test name="Geico LogIn tab(failed)" parallel="tests">
     <classes>
+      <class name="healthFirst.LinkList">
+        <methods>
+          <include name="findLink"/>
+        </methods>
+      </class> <!-- healthFirst.LinkList -->
       <class name="healthFirst.HoverMouse">
         <methods>
           <include name="test"/>

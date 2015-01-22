@@ -6,8 +6,8 @@
     <parameter name="OS" value="WIN8"/>
     <parameter name="browserName" value="firefox"/>
     <parameter name="browserVersion" value="33"/>
-    <parameter name="userName" value="akanda_salahuddin"/>
-    <parameter name="key" value="b5e11a4f-f9a3-4d95-b2a6-24b3984ac9bb"/>
+    <parameter name="userName" value="akanda_salahuddin1"/>
+    <parameter name="key" value="c5fc8bbb-013e-41b2-98a1-dbd904ff66e6"/>
 
     <test  name= "Geico LogIn tab">
         <classes>

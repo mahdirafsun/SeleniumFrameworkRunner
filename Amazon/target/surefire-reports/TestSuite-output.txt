@@ -1,0 +1,12 @@
+Rows is 4
+Colum is 2
+4
+Today's Deals
+.//*[@id='nav-cross-shop-links']/a[2]
+Gift Cards
+.//*[@id='nav-cross-shop-links']/a[3]
+Sell
+.//*[@id='nav-cross-shop-links']/a[4]
+Help
+.//*[@id='nav-cross-shop-links']/a[5]
+4

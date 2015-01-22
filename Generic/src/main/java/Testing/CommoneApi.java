@@ -25,19 +25,12 @@ import java.util.concurrent.TimeUnit;
 public class CommoneApi {
 
     public WebDriver driver = null;
-    @Parameters ({"useSauceLabs","url","OS","browserName","browserVersion","userName","key"})
+    @Parameters ({"browserName","url"})
     @BeforeMethod //............................
-    public void navigationUrl(@Optional("false")boolean useSauceLabs,@Optional("http://www.cnn.com")String url,
-                              @Optional("Windows 7")String OS,
-                              @Optional("firefox")String browserName, @Optional("22")String browserVersion,
-                              @Optional("akanda_salahuddin")String userName, @Optional("b5e11a4f-f9a3-4d95-b2a6-24b3984ac9bb")
-    String key)throws IOException{
-        if(useSauceLabs==true){
-            getSauceLabsDriver(OS,browserName,browserVersion,userName,key);
-        }else{
-            getLocalDriver(browserName);
-        }
-        //driver = getLocalDriver(browser);
+    //public void navigationUrl(){
+    public void navigationUrl(String browser, String url){
+        //driver=getLocalDriver("firefox");
+        driver = getLocalDriver(browser);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.manage().window().maximize();
         driver.navigate().to(url);
@@ -65,17 +58,6 @@ public class CommoneApi {
     }
 
     //All  method
-    //Saucelabs driver
-    public WebDriver getSauceLabsDriver(String os, String browserName, String browserVersion, String userName,
-                                        String key)throws IOException {
-        DesiredCapabilities cap = new DesiredCapabilities();
-        cap.setCapability("platform", os);
-        cap.setBrowserName(browserName);
-        cap.setVersion(browserVersion);
-        this.driver = new RemoteWebDriver(new URL("http://"+userName+":"+key
-                +"@ondemand.saucelabs.com:80/wd/hub"), cap);
-        return driver;
-    }
 
     //Click
 

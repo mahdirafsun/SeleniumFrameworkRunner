@@ -2,17 +2,17 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Geico insurance company" parallel="tests">
     <parameter name="url" value="http://www.healthfirst.com/"/>
-    <parameter name="useSauceLabs" value="true"/>
-    <parameter name="OS" value="WIN8"/>
-    <parameter name="browserName" value="chrome"/>
-    <parameter name="browserVersion" value="38"/>
-    <parameter name="userName" value="akanda_salahuddin"/>
-    <parameter name="key" value="b5e11a4f-f9a3-4d95-b2a6-24b3984ac9bb"/>
+<parameter name="useSauceLabs" value="true"/>
+<parameter name="OS" value="WIN8"/>
+<parameter name="browserName" value="chrome"/>
+<parameter name="browserVersion" value="38"/>
+<parameter name="userName" value="akanda_salahuddin1"/>
+<parameter name="key" value="c5fc8bbb-013e-41b2-98a1-dbd904ff66e6"/>
 
-    <test  name= "Geico LogIn tab">
-        <classes>
-            <class name="healthFirst.HoverMouse"/>
-            <class name="healthFirst.LinkList"/>
-        </classes>
-    </test>
+<test  name= "Geico LogIn tab">
+<classes>
+    <class name="healthFirst.HoverMouse"/>
+    <class name="healthFirst.LinkList"/>
+</classes>
+</test>
 </suite>

@@ -2,7 +2,9 @@ package amazon;
 
 
 import Testing.CommoneApi;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.Test;
 
 import java.util.List;
@@ -23,7 +25,14 @@ public class DropDownList extends CommoneApi {
 //            navigateBack();
 //            element = getWebElement1(".//*[@id='searchDropdownBox']");
 //        }
-
+// not using common Api
+//        WebElement element2 = driver.findElement(By.xpath(".//*[@id='searchDropdownBox']"));
+//        Select select = new Select(element2);
+//        List<WebElement> webElements = select.getOptions();
+//        for (int i=0; i<webElements.size(); i++){
+//            webElements.get(i).click();
+//            Thread.sleep(3000);
+//        }
 
 
         // we can use also this way

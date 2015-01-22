@@ -18,7 +18,7 @@ public class ScrollOption extends CommoneApi{
         driver.findElement(By.cssSelector("#txtStationTo")).sendKeys("TP" + Keys.TAB);
         sleep(4);
 
-        WebElement element = driver.findElement(By.xpath(".//*[@id='divTrainsListTrainsObj']/table[1]/tbody/tr[36]/td[2]/a"));
+        WebElement element = driver.findElement(By.xpath(".//*[@id='divTrainsListTrainsObj']/table[1]/tbody/tr[31]/td[2]/a"));
        sleep(3);
         File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(scrFile, new File("screenShort.jpg"));

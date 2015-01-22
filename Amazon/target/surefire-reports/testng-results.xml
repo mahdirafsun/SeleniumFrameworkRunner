@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Amazon company" duration-ms="220739" started-at="2015-01-12T11:50:23Z" finished-at="2015-01-12T11:54:04Z">
+  <suite name="Amazon company" duration-ms="199126" started-at="2015-01-22T02:17:37Z" finished-at="2015-01-22T02:20:57Z">
     <groups>
     </groups>
-    <test name="Amazon LogIn" duration-ms="220739" started-at="2015-01-12T11:50:23Z" finished-at="2015-01-12T11:54:04Z">
+    <test name="Amazon LogIn" duration-ms="199126" started-at="2015-01-22T02:17:37Z" finished-at="2015-01-22T02:20:57Z">
       <class name="amazon.DropDownList">
-        <test-method status="PASS" signature="navigationUrl(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:amazon.DropDownList@5ebec15]" name="navigationUrl" is-config="true" duration-ms="25658" started-at="2015-01-12T06:50:23Z" finished-at="2015-01-12T06:50:48Z">
+        <test-method status="PASS" signature="navigationUrl(java.lang.String, java.lang.String)[pri:0, instance:amazon.DropDownList@79698539]" name="navigationUrl" is-config="true" duration-ms="6583" started-at="2015-01-21T21:17:37Z" finished-at="2015-01-21T21:17:44Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[true]]>
+                <![CDATA[firefox]]>
               </value>
             </param>
             <param index="1">
@@ -19,44 +19,45 @@
                 <![CDATA[http://www.amazon.com]]>
               </value>
             </param>
-            <param index="2">
-              <value>
-                <![CDATA[WIN8]]>
-              </value>
-            </param>
-            <param index="3">
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationUrl -->
+        <test-method status="PASS" signature="DropDownList()[pri:0, instance:amazon.DropDownList@79698539]" name="DropDownList" duration-ms="176562" started-at="2015-01-21T21:17:44Z" finished-at="2015-01-21T21:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DropDownList -->
+        <test-method status="PASS" signature="closeUrl()[pri:0, instance:amazon.DropDownList@79698539]" name="closeUrl" is-config="true" duration-ms="19" started-at="2015-01-21T21:20:41Z" finished-at="2015-01-21T21:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUrl -->
+      </class> <!-- amazon.DropDownList -->
+      <class name="amazon.ReadFile">
+        <test-method status="PASS" signature="navigationUrl(java.lang.String, java.lang.String)[pri:0, instance:amazon.ReadFile@5315b42e]" name="navigationUrl" is-config="true" duration-ms="5991" started-at="2015-01-21T21:20:41Z" finished-at="2015-01-21T21:20:47Z">
+          <params>
+            <param index="0">
               <value>
                 <![CDATA[firefox]]>
               </value>
             </param>
-            <param index="4">
+            <param index="1">
               <value>
-                <![CDATA[33]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[akanda_salahuddin]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[b5e11a4f-f9a3-4d95-b2a6-24b3984ac9bb]]>
+                <![CDATA[http://www.amazon.com]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigationUrl -->
-        <test-method status="PASS" signature="DropDownList()[pri:0, instance:amazon.DropDownList@5ebec15]" name="DropDownList" duration-ms="194671" started-at="2015-01-12T06:50:48Z" finished-at="2015-01-12T06:54:03Z">
+        <test-method status="PASS" signature="runFile()[pri:0, instance:amazon.ReadFile@5315b42e]" name="runFile" duration-ms="9845" started-at="2015-01-21T21:20:47Z" finished-at="2015-01-21T21:20:56Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- DropDownList -->
-        <test-method status="PASS" signature="closeUrl()[pri:0, instance:amazon.DropDownList@5ebec15]" name="closeUrl" is-config="true" duration-ms="399" started-at="2015-01-12T06:54:03Z" finished-at="2015-01-12T06:54:04Z">
+        </test-method> <!-- runFile -->
+        <test-method status="PASS" signature="closeUrl()[pri:0, instance:amazon.ReadFile@5315b42e]" name="closeUrl" is-config="true" duration-ms="115" started-at="2015-01-21T21:20:56Z" finished-at="2015-01-21T21:20:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeUrl -->
-      </class> <!-- amazon.DropDownList -->
+      </class> <!-- amazon.ReadFile -->
     </test> <!-- Amazon LogIn -->
   </suite> <!-- Amazon company -->
 </testng-results>
